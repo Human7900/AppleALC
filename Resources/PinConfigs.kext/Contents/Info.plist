@@ -1396,6 +1396,24 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Realtek ALC255 for minisforum U820 by DalianSky</string>
+					<key>CodecID</key>
+					<integer>283902549</integer>
+					<key>ConfigData</key>
+					<data>AbccMAG3HQEBtx6gAbcfkAGXHCABlx0RAZcegQGXHwICFxxAAhcdEQIXHiECFx8CAhcMAg==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>82</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Armênio - Realtek ALC255/ALC3234 - Dell 7348</string>
 					<key>CodecID</key>
 					<integer>283902549</integer>
@@ -1639,6 +1657,24 @@
 					<integer>71</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>Bhavin dell 5559 alc255</string>
+					<key>CodecID</key>
+					<integer>283902549</integer>
+					<key>ConfigData</key>
+					<data>ASccEAEnHQEBJx6mAScfkAFHHCABRx0BAUceFwFHH5ABRwwCAZccMAGXHRABlx6LAZcfAgIXHEACFx0QAhceIQIXHwICFwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>96</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgIXDAIBlwcC</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
@@ -3468,6 +3504,24 @@
 					<key>CodecID</key>
 					<integer>283902594</integer>
 					<key>Comment</key>
+					<string>ALC282 for TinyMonster ECO by DalianSky</string>
+					<key>ConfigData</key>
+					<data>AScc8AEnHQABJx4AAScfQAFHHPABRx0AAUceAAFHH0ABlxwwAZcdAQGXHqcBlx+QAdccUAHXHZAB1x5GAdcfQAIXHCACFx0QAhceIQIXHwACFwwC</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>21</integer>
+					<key>WakeConfigData</key>
+					<data>AZcHJA==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283902594</integer>
+					<key>Comment</key>
 					<string>Custom ALC282 lenovo y430p by loverto</string>
 					<key>ConfigData</key>
 					<data>ASccEAEnHQEBJx6mAScfkAFHHPABRx0AAUcdAAFHH0ABdxzwAXcdAAF3HgABdx9AAYcccAGHHRABhx6BAYcfAQGHHAIBlxzwAZcdAAGXHgABlx9AAacc8AGnHQABpx4AAacfQAG3HEABtx0BAbceFwG3H5AB1xzwAdcdAAHXHgAB1x9AAeccYAHnHRAB5x5EAecfAQIXHFACFx0QAhceIQIXHwECFxwC</data>
@@ -4329,6 +4383,24 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>29</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>ALC 293 for Hasee ZX8-CT5DA/Clevo N9x0TD_TF by RushiaBoingBoing</string>
+					<key>CodecID</key>
+					<integer>283902611</integer>
+					<key>ConfigData</key>
+					<data>ASccUAEnHQEBJx6jAScfmQE3HCABNx0AATceAAE3HwEBRxwQAUcdAQFHHhMBRx+ZAVccMAFXHRABVx4hAVcfAQGHHGABhx0QAYcegQGHHwEB1xxwAdcdAAHXHnMB1x9AAeccQAHnHREB5x5FAecfAQ==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>30</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAg==</data>
 					<key>WakeVerbReinit</key>
@@ -6824,6 +6896,24 @@
 					<key>CodecID</key>
 					<integer>283906592</integer>
 					<key>CodecName</key>
+					<string>NIBLIZE - ALC1220 for Gigabyte Z490 Vision G manual SP/HP</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4RAUcfAQFXHCABVx0QAVceAQFXHwEBZxwwAWcdYAFnHgEBZx8BAXccQAF3HSABdx4BAXcfAQGHHFABhx2QAYceoAGHH5ABlxxgAZcdkAGXHoEBlx8CAacccAGnHTABpx6BAacfAQG3HIABtx1AAbceIQG3HwIB5xyQAecdYAHnHkUB5x8BAUcMAg==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>17</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283906592</integer>
+					<key>CodecName</key>
 					<string>ALC1220 for MSI GE63 Raider RGB 8RF</string>
 					<key>ConfigData</key>
 					<data>AUccEAFHHUABRx4RAUcfAQEnHCABJx0BASceoAEnH5ABlxwwAZcdEAGXHoEBlx8CAbccgAG3HUABtx4hAbcfAQHnHJAB5x3gAeceRQHnHwEBRwwC</data>
@@ -6921,6 +7011,24 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>34</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283906592</integer>
+					<key>CodecName</key>
+					<string>Custom ALC1220 for MSI GP75 9SD by Win7GM</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHRABRx4hAUcfAQFHDAIBtxwgAbcdAQG3HhcBtx+QAbcMAgGXHDABlx0QAZcegQGXHwEBJxxAAScdAQEnHqYBJx+Q</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>35</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAg==</data>
 					<key>WakeVerbReinit</key>
@@ -7089,6 +7197,24 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>51</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgG3DAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283904768</integer>
+					<key>CodecName</key>
+					<string>Lorys89 and Vorshim92 - ALCS1200A for ASROCK Z490M ITX AC</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4RAUcfkAFHDAIBhxwgAYcdkAGHHqABhx+QAZccMAGXHZABlx6BAZcfAgGnHEABpx0wAacegQGnHwEBtxxQAbcdQAG3HiEBtx8CAbcMAg==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>69</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAgG3DAI=</data>
 					<key>WakeVerbReinit</key>

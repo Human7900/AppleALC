@@ -3,7 +3,7 @@ AppleALC
 
 [![Build Status](https://github.com/acidanthera/AppleALC/workflows/CI/badge.svg?branch=master)](https://github.com/acidanthera/AppleALC/actions) [![Scan Status](https://scan.coverity.com/projects/16166/badge.svg?flat=1)](https://scan.coverity.com/projects/16166)
 
-An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
+An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. AppleALCU can be used for systems with digital-only audio.
 
 English (Current)  
 [简体中文](https://github.com/acidanthera/AppleALC/blob/master/README_CN.md)  
@@ -16,7 +16,7 @@ English (Current)
 - Arbitrary kext patching
 - Custom platform/layout injection
 - Works with SIP / El Capitan
-- Currently compatible with 10.8-11
+- Currently compatible with 10.8-12
 
 #### Credits
 - [Apple](https://www.apple.com) for macOS  
